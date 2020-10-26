@@ -1,11 +1,11 @@
-import React from 'react';
-import './App.css';
-import Contactlist from './components/Contactlist'
+import React from "react";
+import "./App.css";
+import ContactList from "./components/ContactList";
 
 function App() {
   return (
     <div>
-      <Contactlist />
+      <ContactList />
     </div>
   );
 }
